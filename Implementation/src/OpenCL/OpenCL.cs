@@ -26,7 +26,7 @@ using System.Runtime.InteropServices;
 /// <summary>
 /// This class provides the driver interface to OpenCL functions.
 /// </summary>
-internal static class OpenCLDriver
+internal static class OpenCL
 {
 
     internal const string OPENCL_DLL_NAME = "OpenCL";
