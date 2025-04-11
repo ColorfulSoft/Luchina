@@ -338,7 +338,7 @@ internal struct CLBufferRegion
 #region Enums
 
 // Error Codes
-public enum CLError
+internal enum CLError
 {
 
     Success = 0,
